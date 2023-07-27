@@ -1,6 +1,6 @@
 - Hi, I’m @lindseyvanzilen
 - I’m interested in software development and UX/UI
-- I’m currently learning how to perfect my JSON and how to design Siri Shortcuts / other simple applications
+- I’m currently learning how to perfect my JSON and Markdown, and how to design Siri Shortcuts / other simple applications
 - I’m looking to collaborate on anything and everything
 
 <!---
